@@ -1,0 +1,5 @@
+<<<<<<< HEAD
+web: gunicorn blog.wsgi --log-file -
+=======
+web: gunicorn blog.wsgi
+>>>>>>> 21cecbe909ea8840bc7b631e894c8be8820f88b6
